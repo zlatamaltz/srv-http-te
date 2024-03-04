@@ -15,7 +15,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     license="MIT",
-    url="https://github.com/zlatamaltz/srv-http-te",
+    url="https://github.com/zlatamaltz/srv-http-te.git",
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
@@ -28,6 +28,6 @@ setup(
         "Programming Language :: Python :: 3.9",
     ],
      project_urls={
-        'Source': "https://github.com/zlatamaltz/srv-http-te",
+        'Source': "https://github.com/zlatamaltz/srv-http-te.git",
     },
 )
