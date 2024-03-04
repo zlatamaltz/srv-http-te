@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+srv-http-te.egg-info/PKG-INFO
+srv-http-te.egg-info/SOURCES.txt
+srv-http-te.egg-info/dependency_links.txt
+srv-http-te.egg-info/requires.txt
+srv-http-te.egg-info/top_level.txt
